@@ -1,6 +1,6 @@
-# ml-projects
+# Machine Learning Projects
 
-- Breast Cancer Classification
+### Breast Cancer Classification
 - Business Understanding:
     - How to classify tumors into malignant or benign
     - **Benign** tumors are non-cancerous, slow-growing, and don't spread across body.
